@@ -1,5 +1,5 @@
 /**
- * @name equmaqthemeV2
+ * @name equmaqtheme2.1
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -18,18 +18,18 @@
   --danger-color: #982929;
   --url-color: #006FFF;
   --background-image: url('https://i.imgur.com/5QGafDt.jpg');
-  --background-shading: 81%;
+  --background-shading: 0%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
   --background-attachment: fixed;
-  --background-brightness: 130%;
+  --background-brightness: 100%;
   --background-contrast: 100%;
   --background-saturation: 100%;
   --background-grayscale: 0%;
   --background-invert: 0%;
-  --background-blur: 2px;
-  --background-overlay: rgba(0,0,0,0.6);
+  --background-blur: 0px;
+  --background-overlay: rgb(0,0,0,0);
   --user-popout-image: url('https://i.imgur.com/cvzv4kG.jpg');
   --user-popout-position: center;
   --user-popout-size: 200%;
